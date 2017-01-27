@@ -6,6 +6,6 @@ I am a Research Associate and PhD Student at Uni Leipzig.
 
 - [DeFacto: Deep Fact Validation](http://defacto.aksw.org/)
 - HORUS: Named Entity Recognition for Noisy Data!
-- [MEX: Managing Machine Learning Metadata] (http://smartdataanalytics.github.io/mexproject/)
+- [MEX: Managing Machine Learning Metadata](http://smartdataanalytics.github.io/mexproject/)
 - Experimental Analysis of Class CS Problems
 
